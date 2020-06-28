@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://kovar123:kovar123@devconnector-w9nr9.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myserettoken",
+  "githubAccessToken": "35ff9060c4d038a491c15094c7225a995402d915"
+}
